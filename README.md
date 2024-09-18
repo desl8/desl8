@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @desl8
-- 👀 I’m interested in VR, Unity, Python, Machine Learning, etc...
-- 🌱 I’m currently learning Unity VR development and PyTorch Machine Learning
-- 💞️ I’m looking to collaborate on anything Unity or Python related
-- 📫 My Discord is desl8
+
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
