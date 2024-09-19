@@ -1,6 +1,7 @@
 <div align="center">
 	<h3>AI Intern with <a href="https://uplevelops.com">UpLevelOps</a></h3>
-	<h3>Freelance Python Developer </h3>
+	<h3>Freelance Python Developer</h3>
+ 	<h3>Learning Unity VR and Full Stack Web Development</h3>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=desl8&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="desl8's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desl8&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
