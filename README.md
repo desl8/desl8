@@ -1,6 +1,4 @@
-<img src="https://github.com/desl8/desl8/blob/main/github-header-image.png?raw=true">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=desl8)(https://github.com/anuraghazra/github-readme-stats)
-<a href=”https://www.linkedin.com/in//"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+MORE STUFF COMING SOON
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
