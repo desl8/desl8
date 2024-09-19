@@ -1,12 +1,15 @@
+<h2>**About Me**</h2>
 <h3>AI Intern with <a href="https://uplevelops.com">UpLevelOps</a></h3>
 <h3>Freelance Python Developer</h3>
 <h3>Learning Unity VR and Full Stack Web Development</h3>
-<br>
+<br />
 
 
 <h4>Stats for @desl8 (stat viewer by <a href="https://github.com/anuraghazra">Anurag Hazra</a>):</h4>
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=desl8&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="desl8's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desl8&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<br>
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=desl8&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="desl8's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desl8&layout=compact&theme=buefy&hide_border=true" /></a>
+</div>
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
@@ -17,6 +20,8 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
 </div>
+<br />
+<br />
 <!---
 desl8/desl8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
