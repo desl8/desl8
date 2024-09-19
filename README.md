@@ -1,6 +1,6 @@
 <div align="center">
-	<h2>AI Intern with [UpLevelOps](https://uplevelops.com)</h2>
-	<h2>Freelance Python Developer </h2>
+	<h3>AI Intern with [UpLevelOps](https://uplevelops.com)</h3>
+	<h3>Freelance Python Developer </h3>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=desl8&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="desl8's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desl8&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
