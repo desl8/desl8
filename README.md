@@ -1,4 +1,4 @@
-**About Me**
+<h2>About Me</h2>
 <h3>AI Intern with <a href="https://uplevelops.com">UpLevelOps</a></h3>
 <h3>Freelance Python Developer</h3>
 <h3>Learning Unity VR and Full Stack Web Development</h3>
