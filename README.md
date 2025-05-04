@@ -4,6 +4,7 @@
 <h3>Learning Unity VR and Full Stack Web Development</h3>
 <br />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=desl8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h4>Stats for @desl8 (stat viewer by <a href="https://github.com/anuraghazra">Anurag Hazra</a>):</h4>
 <br>
