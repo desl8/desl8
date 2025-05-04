@@ -4,14 +4,14 @@
 <h3>Learning Unity VR and Full Stack Web Development</h3>
 <br />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=You+are+waiting+for+a+train.)](https://git.io/typing-svg)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=desl8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h4>Stats for @desl8 (stat viewer by <a href="https://github.com/anuraghazra">Anurag Hazra</a>):</h4>
 <br>
-<div align="center">
-![desl8](https://github-readme-stats.vercel.app/api?username=desl8&show_icons=true&theme=tokyonight&hide=["issues"])
-![desl8](https://github-readme-stats.vercel.app/api/top-langs?username=desl8&show_icons=true&theme=tokyonight&layout=compact)
-</div>
+[![desl8](https://github-readme-stats.vercel.app/api?username=desl8&show_icons=true&theme=tokyonight&hide=["issues"])
+[![desl8](https://github-readme-stats.vercel.app/api/top-langs?username=desl8&show_icons=true&theme=tokyonight&layout=compact)
 
 <br />
 <br />
