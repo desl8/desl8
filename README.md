@@ -7,10 +7,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=desl8)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h4>Stats for @desl8 (stat viewer by <a href="https://github.com/anuraghazra">Anurag Hazra</a>):</h4>
-<br>
-[![desl8](https://github-readme-stats.vercel.app/api?username=desl8&show_icons=true&theme=tokyonight&hide=["issues"])
-https://github-readme-stats.vercel.app/api/top-langs?username=desl8&show_icons=true&theme=tokyonight&layout=compact
+-----Stats for @desl8 (stat viewer by <a href="https://github.com/anuraghazra">Anurag Hazra</a>)-----
+
+![desl8](https://github-readme-stats.vercel.app/api?username=desl8&show_icons=true&theme=tokyonight&hide=["issues"])
+<br />
+![desl8](https://github-readme-stats.vercel.app/api/top-langs?username=desl8&show_icons=true&theme=tokyonight&layout=compact)
 
 <br />
 <br />
