@@ -2,7 +2,6 @@
 <h3>AI Intern with <a href="https://uplevelops.com">UpLevelOps</a></h3>
 <h3>Freelance Python Developer</h3>
 <h3>Learning Unity VR and Full Stack Web Development</h3>
-<br />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=You+are+waiting+for+a+train.)](https://git.io/typing-svg)
 
@@ -11,7 +10,7 @@
 <h4>Stats for @desl8 (stat viewer by <a href="https://github.com/anuraghazra">Anurag Hazra</a>):</h4>
 <br>
 [![desl8](https://github-readme-stats.vercel.app/api?username=desl8&show_icons=true&theme=tokyonight&hide=["issues"])
-[![desl8](https://github-readme-stats.vercel.app/api/top-langs?username=desl8&show_icons=true&theme=tokyonight&layout=compact)
+https://github-readme-stats.vercel.app/api/top-langs?username=desl8&show_icons=true&theme=tokyonight&layout=compact
 
 <br />
 <br />
