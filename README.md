@@ -9,8 +9,8 @@
 
 -----Stats for @desl8 (stat viewer by <a href="https://github.com/anuraghazra">Anurag Hazra</a>)-----
 
-![desl8](https://github-readme-stats.vercel.app/api?username=desl8&show_icons=true&theme=dark)
-![desl8](https://github-readme-stats.vercel.app/api/top-langs?username=desl8&show_icons=true&theme=dark&layout=compact)
+![desl8](https://github-readme-stats.vercel.app/api?username=desl8&show_icons=true&theme=react)
+![desl8](https://github-readme-stats.vercel.app/api/top-langs?username=desl8&show_icons=true&theme=react&layout=compact)
 
 <br />
 <br />
