@@ -1,7 +1,10 @@
-<h2>About Me</h2>
-<h3>AI Intern with <a href="https://uplevelops.com">UpLevelOps</a></h3>
-<h3>Freelance Python Developer</h3>
-<h3>Learning Unity VR and Full Stack Web Development</h3>
+## About Me
+
+### AI Intern with <a href="https://uplevelops.com">UpLevelOps</a>
+
+### I do Cybersecurity stuff, competitive programming, and the occasional AI app development
+
+#### Sometimes under the aliases `breaks` or `nfisch` on other platforms
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=You+are+waiting+for+a+train.)](https://git.io/typing-svg)
 
