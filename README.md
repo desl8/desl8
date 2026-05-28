@@ -6,12 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=You+are+waiting+for+a+train.)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=desl8)](https://github.com/ryo-ma/github-profile-trophy)
-
------Stats for @desl8 (stat viewer by <a href="https://github.com/anuraghazra">Anurag Hazra</a>)-----
-
-![desl8](https://github-readme-stats.vercel.app/api?username=desl8&show_icons=true&theme=react)
-![desl8](https://github-readme-stats.vercel.app/api/top-langs?username=desl8&show_icons=true&theme=react&layout=compact)
+Stats displays will be back soon but I'm a bit too lazy to fix them right now :)
 
 <br />
 <br />
