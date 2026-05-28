@@ -1,7 +1,5 @@
 ## About Me
 
-### AI Intern with <a href="https://uplevelops.com">UpLevelOps</a>
-
 ### I do Cybersecurity stuff, competitive programming, and the occasional AI app development
 
 #### Sometimes under the aliases `breaks` or `nfisch` on other platforms
